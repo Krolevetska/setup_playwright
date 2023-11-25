@@ -1,2 +1,2 @@
-# tests_playwright
+# setup_playwright
 playwright tests
